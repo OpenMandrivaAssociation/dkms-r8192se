@@ -7,7 +7,7 @@
 Summary: dkms package for %{module} driver
 Name: dkms-%{module}
 Version: %{version}
-Release: %mkrel 1
+Release: %mkrel 2
 Source0: %{distname}.tar.gz
 License: GPLv2
 Group: System/Kernel and hardware
