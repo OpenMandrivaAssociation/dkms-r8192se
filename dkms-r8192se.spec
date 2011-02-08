@@ -1,5 +1,5 @@
 %define module r8192se
-%define version 0015.0127.2010
+%define version 0019.1207.2010
 %define card Realtek RTL8191SE/RTL8192SE WiFi cards
 
 %define distname rtl8192se_linux_2.6.%{version}
