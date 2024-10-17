@@ -11,7 +11,7 @@ Release: %mkrel 2
 Source0: %{distname}.tar.gz
 License: GPLv2
 Group: System/Kernel and hardware
-URL: http://www.realtek.com.tw
+URL: https://www.realtek.com.tw
 Requires(preun): dkms
 Requires(post): dkms
 Requires: rtl8192se-firmware
